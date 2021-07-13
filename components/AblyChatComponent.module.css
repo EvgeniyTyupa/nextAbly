@@ -1,0 +1,10 @@
+.chatHolder {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.chatText {
+    display: flex;
+    flex-direction: column;
+}
